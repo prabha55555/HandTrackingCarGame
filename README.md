@@ -24,3 +24,9 @@ OpenCV: For computer vision tasks and image processing.
 MediaPipe: For hand tracking and gesture recognition.
 
 Machine Learning: Underlying technology for hand tracking and gesture control.
+
+**Demo Video**
+
+https://github.com/user-attachments/assets/a2f96b3b-c4ac-4c25-9fec-c20997d24f62
+
+
