@@ -37,21 +37,15 @@ Machine Learning: Underlying technology for hand tracking and gesture control.
 
 Install all required dependencies by running:
 
-```
-pip install -r requirements.txt
-```
+pygame
+opencv-python
+mediapipe
+numpy
 
 ## Running the Project
 
-1. **Hand Tracking Demo**
-   
-   To run only the hand tracking demo:
-   ```
-   python "hand track.py"
-   ```
-   Press 'q' to exit the hand tracking demo.
 
-2. **Car Game**
+1. **Car Game**
    
    To run the full car game with hand controls:
    ```
