@@ -25,6 +25,50 @@ MediaPipe: For hand tracking and gesture recognition.
 
 Machine Learning: Underlying technology for hand tracking and gesture control.
 
+## Process
+
+## Requirements
+
+- Python 3.x
+- Webcam
+- Required libraries (listed in requirements.txt)
+
+## Installation
+
+Install all required dependencies by running:
+
+```
+pip install -r requirements.txt
+```
+
+## Running the Project
+
+1. **Hand Tracking Demo**
+   
+   To run only the hand tracking demo:
+   ```
+   python "hand track.py"
+   ```
+   Press 'q' to exit the hand tracking demo.
+
+2. **Car Game**
+   
+   To run the full car game with hand controls:
+   ```
+   python car.py
+   ```
+   
+   Game controls:
+   - Use your index finger to control the car position
+   - Avoid thunder obstacles and spaceships
+   - Collect jackpot rocks for bonus points
+
+## Exit
+   
+- The hand tracking demo can be closed by pressing 'q'
+- The car game ends when you collide with an obstacle, and will automatically close after showing your final score
+
+
 **Demo Video**
 
 https://github.com/user-attachments/assets/a2f96b3b-c4ac-4c25-9fec-c20997d24f62
