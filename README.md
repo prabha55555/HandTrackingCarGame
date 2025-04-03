@@ -38,9 +38,11 @@ Machine Learning: Underlying technology for hand tracking and gesture control.
 Install all required dependencies by running:
 
 pygame
-opencv-python
+```
+pip install opencv-python
 mediapipe
 numpy
+```
 
 ## Running the Project
 
