@@ -1,6 +1,11 @@
 # HandTrackingCarGame
 
-**HandTracking Car Game**
+### HandTracking Car Game
+
+## Demo Video
+
+https://github.com/user-attachments/assets/a2f96b3b-c4ac-4c25-9fec-c20997d24f62
+
 
 **Description**
 
@@ -65,8 +70,5 @@ numpy
 - The car game ends when you collide with an obstacle, and will automatically close after showing your final score
 
 
-**Demo Video**
-
-https://github.com/user-attachments/assets/a2f96b3b-c4ac-4c25-9fec-c20997d24f62
 
 
